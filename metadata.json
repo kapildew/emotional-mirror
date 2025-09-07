@@ -1,0 +1,8 @@
+
+{
+  "name": "Emotion Mirror",
+  "description": "Emotion Mirror transforms self-reflection into an immersive, artistic experience by capturing users' emotional states through their camera and generating surreal visual representations that empower rather than define them.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
